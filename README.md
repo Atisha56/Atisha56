@@ -1,6 +1,6 @@
 # Hi, I'm Atisha Karki 
 
-### MS Quantitative Finance · Risk & Quant Analyst · San Marcos, TX
+### MS Quantitative Finance · Risk & Quant Analyst · Dallas, TX
 
 I build quantitative models at the intersection of **financial risk**, **machine learning**, and **macroeconomic analysis**. Currently completing the **FMVA certification** (CFI) alongside applied research in market stress detection and credit risk modeling.
 
@@ -36,11 +36,11 @@ Sovereign credit risk analysis across G7 nations using CDS spreads and Bloomberg
 
 - Completing **FMVA certification** (Corporate Finance Institute)
 - Open to **Financial Analyst**, **Risk Analyst**, **Credit Analyst**, and **Quant Analyst** roles
-- Based in San Marcos, TX — open to remote and relocation
+- Based in Dallas, TX — open to remote and relocation
 
 ---
 
 ## Connect
 
-uuk22@txstate.edu  
+atishakarki28@gmail.com  
 [linkedin.com/in/atishakarki](https://www.linkedin.com/in/atishakarki)
