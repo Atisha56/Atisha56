@@ -42,7 +42,7 @@ I am pursuing my **MS in Quantitative Finance and Economics** at Texas State Uni
 
 ## Featured Projects
 
-### [Market Health Monitoring Framework](https://github.com/Atisha56/Market-health-monitoring-framework)
+### [Market Health Monitoring Framework](https://github.com/Atisha56/Hidden-Fragility-Financial-Markets)
 A 3-layer quantitative framework detecting early-stage market stress before it becomes visible in price performance. Built a composite Market Health Score using GARCH, Hidden Markov Models, and macro indicators. Backtested against 2008, 2020, and 2022 crisis episodes.
 
 ### [Quantitative Risk Modeling & Stress Testing](https://github.com/Atisha56/Quantitative-risk-modeling-stress-testing)
