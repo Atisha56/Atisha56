@@ -5,7 +5,7 @@
 
 I am a finance professional with **2+ years of experience** in financial modeling, risk analysis, investment research, and client-facing financial reporting. My work combines quantitative methods, statistical modeling, and applied macroeconomic research across financial risk, credit analysis, and wealth management.
 
-Currently a **Graduate Research Assistant** at Texas State University, where I build DCF and scenario models, conduct industry analysis using Bloomberg, FRED, and FactSet, and support faculty credit research and publications. Previously a **Financial Analyst** at EcoBees Intelligence, where I improved forecast accuracy by 30% and reduced operating expenditures by 20%.
+Worked as a **Graduate Research Assistant** at Texas State University, where I build DCF and scenario models, conduct industry analysis using Bloomberg, FRED, and FactSet, and support faculty credit research and publications. Previously a **Financial Analyst** at EcoBees Intelligence, where I improved forecast accuracy by 30% and reduced operating expenditures by 20%.
 
 I am pursuing my **MS in Quantitative Finance and Economics** at Texas State University and expected to graduate in May 2026. I hold a **CFA Level I Candidate** status with SIE passed, and am completing the **FMVA certification** (CFI). I was awarded **1st Place & People's Choice at the Ignite 3.0 Pitch Competition** (2025).
 
