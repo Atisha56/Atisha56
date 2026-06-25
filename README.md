@@ -29,34 +29,34 @@ I am pursuing my **MS in Quantitative Finance and Economics** at Texas State Uni
 
 ## Research & Expertise
 
-- **Financial Modeling & Valuation** — DCF models, 3-statement modeling, bull/base/bear scenario analysis across 25+ scenarios. Automated data extraction using Python, reducing model build time by 35%.
+- **Machine Learning for Risk Prediction** — Composite Fragility Score from network biomarkers across 10 S&P 500 sectors, lifting crash-prediction AUC from 0.645 to 0.726 using XGBoost.
 
-- **Quantitative Risk Modeling** — GARCH-based Monte Carlo VaR/ES estimation, fixed-income stress testing, NAV sensitivity analysis across 10+ yield-curve scenarios.
+- **Financial Modeling & Valuation** — DCF and 3-statement modeling with scenario analysis across corporate finance and credit projects.
 
-- **Market Stress Detection** — 3-layer composite Market Health Score using GARCH and Hidden Markov Models. Backtested against 2008, 2020, and 2022 crisis episodes.
+- **Quantitative Risk Simulation** — GARCH(1,1) Monte Carlo VaR/ES estimation implemented in both R and C++ from first principles.
 
-- **Sovereign Credit Risk** — G7 CDS spread analysis using Bloomberg Terminal data. Identified VIX as dominant sovereign credit risk predictor across a 10-year time series.
+- **Time-Series & Panel Econometrics** — ARFIMA-GARCH/APARCH volatility modeling, panel fixed-effects regression, and VAR/DCC-GARCH analysis across equity, energy, and cryptocurrency markets.
 
-- **Reporting & Dashboard Automation** — Power BI dashboards tracking revenue, gross margin, and KPIs. Automated financial reporting pipelines reducing reporting cycle by 40%.
+- **Sovereign & Credit Data Construction** — Extracted and structured 20+ years of daily CDS spreads across 19 sovereign nations (Bloomberg) and macro indicator series (FRED) for credit risk research.
 
 ---
 
 ## Featured Projects
 
-### [Hidden Fragility in Financial Markets](https://github.com/Atisha56/Hidden-Fragility-Financial-Markets)
-Network-based early warning system for equity market crashes using S&P 500 sector correlation biomarkers, XGBoost, and sector rotation signals 
+### [Quantitative Finance Research](https://github.com/Atisha56/quant-research-projects)
+Network-based crash prediction (XGBoost), bank failure contagion event study (Fama-French), panel econometrics & volatility modeling (U.S. energy sector), VAR/DCC-GARCH crypto market analysis, and a GARCH Monte Carlo risk simulation built from scratch in C++.
 
-### [Quantitative Risk Modeling & Stress Testing](https://github.com/Atisha56/Quantitative-risk-modeling-stress-testing)
-GARCH-based Monte Carlo VaR/ES estimation with fixed-income stress testing scenarios. Models tail risk under historical and hypothetical shock conditions.
+### [Credit Analysis Portfolio](https://github.com/Atisha56/credit-analysis-portfolio)
+Independent credit analyses using SEC filings, Bloomberg, and DFAST-style stress testing — including a full credit memo and stress test on Southwest Airlines.
 
-### [Sovereign CDS Credit Risk Analysis](https://github.com/Atisha56/Sovereign-cds-credit-risk-analysis)
-Sovereign credit risk analysis across G7 nations using CDS spreads and Bloomberg Terminal data. Examines credit risk transmission and spread dynamics across a 10-year horizon.
+### [FP&A & Financial Modeling](https://github.com/Atisha56/fpa-financial-modeling)
+DCF valuation and 3-statement financial planning models built from SEC filings, including a Johnson & Johnson valuation finding 63% undervaluation under base-case assumptions.
 
 ---
 
 ## Education & Certifications
 
-- **MS in Quantitative Finance & Economics** — Texas State University (GPA: 3.91/4.00) — May 2026
+- **MS in Quantitative Finance & Economics** — Texas State University (GPA: 3.91/4.00) — Expected May 2026
 - **BBA, Finance** — Tribhuvan University, Nepal (GPA: 3.95/4.00)
 - **CFA® Level I Candidate**
 - **SIE® Passed**
