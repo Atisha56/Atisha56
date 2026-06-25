@@ -7,7 +7,7 @@ I am a finance professional with **2+ years of experience** in financial modelin
 
 Worked as a **Graduate Research Assistant** at Texas State University, where I build econometric and scenario models, conduct industry analysis using Bloomberg, FRED, and FactSet, and support faculty research and publications. Previously an **Analyst – Credit & Financial Analysis** at Citizens Bank International Limited, where I performed financial statement spreading and covenant compliance monitoring across 30+ corporate accounts, maintaining 100% data accuracy through SQL-based reporting pipelines.
 
-I am pursuing my **MS in Quantitative Finance and Economics** at Texas State University, expected May 2026. I hold **CFA Level I Candidate** status with SIE passed, and am completing the **FMVA certification** (CFI). I was awarded **1st Place & People's Choice at the Ignite 3.0 Pitch Competition** (2025).
+I hold an MS in Quantitative Finance and Economics from Texas State University (May 2026). I also hold **CFA Level I Candidate** status with SIE passed, and am completing the **FMVA certification** (CFI). I was awarded **1st Place & People's Choice at the Ignite 3.0 Pitch Competition** (2025).
 
 ---
 
@@ -56,7 +56,7 @@ DCF valuation and 3-statement financial planning models built from SEC filings, 
 
 ## Education & Certifications
 
-- **MS in Quantitative Finance & Economics** — Texas State University (GPA: 3.91/4.00) — Expected May 2026
+- **MS in Quantitative Finance & Economics** — Texas State University (GPA: 3.91/4.00) — May 2026
 - **BBA, Finance** — Tribhuvan University, Nepal (GPA: 3.95/4.00)
 - **CFA® Level I Candidate**
 - **SIE® Passed**
